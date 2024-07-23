@@ -1,1 +1,1 @@
-Exercicido baiscos referente a lista em C
+Exercicios baiscos referente a lista em C
